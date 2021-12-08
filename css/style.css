@@ -224,7 +224,7 @@ a:active {
 }
 
 .pre-loader:before {
-  content: "\f3bd";
+  /*content: "\f3bd";*/
   position: absolute;
   top: 50%;
   left: 50%;
